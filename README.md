@@ -9,7 +9,13 @@ Os objetivos do Focus Fit é oferecer aos usuários uma plataforma prática e f�
 # Arquitetura e Modelo de Processo de Desenvolvimento
 Por sermos um grupo composto em sua maioria por principiantes no mundo da programação, o modelo de processo de desenvolvimento escolhido foi o **espiral** e a arquitetura que se melhor encaixou no nosso projeto foi a de **chamada e retorno**
 
+# Estrutura Analítica do Projeto
+
+
 # Diagrama de Casos de Uso
+<div align="center">
+<img src= "https://github.com/VitorSirotenco/focusfit/assets/107820507/5ee34cb7-ff61-47e1-8f16-f71a051ef81a" widht = '500px'/> 
+</div>
 
 
 # Requisitos Funcionais
