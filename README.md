@@ -9,6 +9,9 @@ Os objetivos do Focus Fit é oferecer aos usuários uma plataforma prática e f�
 # Arquitetura e Modelo de Processo de Desenvolvimento
 Por sermos um grupo composto em sua maioria por principiantes no mundo da programação, o modelo de processo de desenvolvimento escolhido foi o **espiral** e a arquitetura que se melhor encaixou no nosso projeto foi a de **chamada e retorno**
 
+# Diagrama de Casos de Uso
+
+
 # Requisitos Funcionais
 - Cadastro de usuário, que contenha: nome, sobrenome, email, senha, confirmação da maior idade e concordar com os termos de uso do app.
 - Login do usuário, que precisa de email e senha
@@ -35,7 +38,21 @@ Por sermos um grupo composto em sua maioria por principiantes no mundo da progra
 - Portabilidade: O sistema deve ser capaz de rodar em diferentes dispositivos com alterações mínimas.
 - A modelagem deve ser feita no figma.
 
+# Especificação dos Casos de Uso
+Segue o link do documento com as especificação completa dos casos de uso: https://docs.google.com/document/d/1vwgl6OJNfbYM5HozMjBZwHYQoLu-iLYsV9gmc_Oe4qw/edit?usp=sharing
+
 # Modelagem 
+<div align="center">
+<img src= "https://user-images.githubusercontent.com/107820507/251263400-09cd7361-190b-40c8-8dff-2470423b584e.png"/>
+</div>
+
+# Figma
+Para acessar o projeto completo siga esse link: https://www.figma.com/file/hI93znnm6aFFU20okK8U1d/Untitled?type=design&node-id=0%3A1&mode=design&t=OuDnQjjn2RUSLEAU-1
+
+# Agradecimentos 
+- Prof. Edgard Luiz Bernardes Valderramas 
+- Prof. José Carmino Gomes Junior 
+
 
 
 
