@@ -1,6 +1,6 @@
 # Focus Fit
 
-# O que somos?
+# O que é?
 A Focus Fit foi desenvolvida para orientar e auxiliar seus usuários com foco em musculação e exercícios físicos a alcançarem melhores resultados, fornecendo demonstrações de exercícios, explicações de como fazer e rotinas personalizadas mostrando os benefícios de cada exercícios e sua influência no fortalecimento do corpo, concentrando em oferecer uma plataforma prática e fácil de usar, coletando regularmente o feedback dos usuários para melhorar a experiência e aumentar sua satisfação.
 
 # Objetivos a serem alcançados
@@ -10,13 +10,17 @@ Os objetivos do Focus Fit é oferecer aos usuários uma plataforma prática e f�
 Por sermos um grupo composto em sua maioria por principiantes no mundo da programação, o modelo de processo de desenvolvimento escolhido foi o **espiral** e a arquitetura que se melhor encaixou no nosso projeto foi a de **chamada e retorno**
 
 # Estrutura Analítica do Projeto
-
-
-# Diagrama de Casos de Uso
-<div align="center">
-<img src= "https://github.com/VitorSirotenco/focusfit/assets/107820507/5ee34cb7-ff61-47e1-8f16-f71a051ef81a" widht = '500px'/> 
+<div>
+<img src= "https://github.com/VitorSirotenco/focusfit/assets/107820507/59c0bb85-308b-43fa-a2b3-bd6305b31d9b"/> 
 </div>
 
+# Plano de Testes
+Segue o link para o documento com todo o planejamento de testes do sistema: https://docs.google.com/document/d/1rE5zGUfkxVIpWPCvskEm9QoZRhu5rZDrZAHv4sRuKVs/edit?usp=sharing
+
+# Diagrama de Casos de Uso
+<div>
+<img src= "https://github.com/VitorSirotenco/focusfit/assets/107820507/5ee34cb7-ff61-47e1-8f16-f71a051ef81a" widht = '500px'/> 
+</div>
 
 # Requisitos Funcionais
 - Cadastro de usuário, que contenha: nome, sobrenome, email, senha, confirmação da maior idade e concordar com os termos de uso do app.
